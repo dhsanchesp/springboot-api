@@ -1,0 +1,9 @@
+spring:
+  data:
+    rest:
+      basePath: /api
+
+springdoc:
+  swagger-ui:
+    path: /custom-api-buffalo.html
+    operationsSorter: method
