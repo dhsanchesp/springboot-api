@@ -1,7 +1,7 @@
 spring:
   data:
-    rest:
-      basePath: /api
+  rest:
+    basePath: /api
 
 springdoc:
   swagger-ui:
